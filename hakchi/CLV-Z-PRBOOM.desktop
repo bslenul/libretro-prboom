@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh /var/games/CLV-Z-PRBOOM/prboom.sh
+Path=/var/saves/CLV-Z-PRBOOM
+Name=PrBoom
+Icon=/var/games/CLV-Z-PRBOOM/CLV-Z-PRBOOM.png
+
+[X-CLOVER Game]
+Code=CLV-Z-PRBOOM
+TestID=0
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=1900-01-01
+SaveCount=0
+SortRawTitle=prboom
+SortRawPublisher=ID
+Copyright=hakchi2 ©2017 Alexey 'Cluster' Avdyukhin
